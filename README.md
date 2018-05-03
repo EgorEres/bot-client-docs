@@ -93,7 +93,7 @@ console.log(response) // { code: 200, message: 'OK', count: 1 }
 #### <a name="user-content-comment-create">comment.create</a>
 
 Метод для создания комментариев
-
+бла бла бла я изменил твой фаил
 ```js
 const { comment } = botClient
 const query = { threadId }
